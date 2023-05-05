@@ -12,7 +12,7 @@ Forked from following repository: https://github.com/GoogleChrome/samples/tree/g
 Setup Instructions
 ===
 1. Deploy website
-2. Visit website using mobile phone with NFC enabled via Google Chrome
+2. Visit website using Google Chrome via mobile phone with NFC enabled 
 3. Click Scan/Write to perform any action
     1. WARNING! Action Read-Only is not reversible! Be very careful!
 4. Put phone next to NFC object and the result should be displayed below "Live Output"
